@@ -15,5 +15,5 @@ cout << "Abra" << endl;
 //menampilkan isi integer
 cout << 78 <<endl;
 //menampilkan isi dari variabel cout
-cout << umur <<endl;  
+cout << umur <<endl;      
 }
