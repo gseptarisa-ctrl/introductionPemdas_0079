@@ -5,7 +5,7 @@ using namespace std;
 //progress utama
 int main()
 {   
-  //deklarasi variabel umur
+//deklarasi variabel umur
 int umur;
 //memberi nilai dari variabel
 umur = 20;
